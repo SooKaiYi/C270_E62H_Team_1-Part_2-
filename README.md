@@ -54,3 +54,7 @@ You can reset sample data by editing the JSON files in `backend/data`.
 - `GET /wallet/pass`
 - `POST /wallet/pass`
 - `GET /wallet/history`
+
+
+#Now everything works
+testin
